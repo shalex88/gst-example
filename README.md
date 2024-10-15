@@ -16,4 +16,4 @@ sudo apt -y install pkg-config bison flex nasm
 
 * Enable/disable specific elements
 * Support multiple sinks
-* Integrate metadata and extract it
+* Embed metadata and extract it
