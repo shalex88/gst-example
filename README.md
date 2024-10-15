@@ -15,5 +15,6 @@ sudo apt -y install pkg-config bison flex nasm
 # TODO
 
 * Enable/disable specific elements
-* Support multiple sinks
-* Embed metadata and extract it
+* Enable/disable tees
+* Embed metadata and extract it.
+Consider In-Pipeline Metadata/SEI Messages/RTP Extension Headers/RTSP Metadata Track/Out-of-Band Transmission
